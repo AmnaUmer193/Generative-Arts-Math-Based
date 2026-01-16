@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\UnityProjects\\GenerativeArt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE1EFE7-6CF3-C6E8-732E-342726E5542B}|Assembly-CSharp.csproj|e:\\unityprojects\\generativeart\\assets\\scripts\\fractalbranchart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE1EFE7-6CF3-C6E8-732E-342726E5542B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fractalbranchart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE1EFE7-6CF3-C6E8-732E-342726E5542B}|Assembly-CSharp.csproj|e:\\unityprojects\\generativeart\\assets\\scripts\\randommathart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE1EFE7-6CF3-C6E8-732E-342726E5542B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\randommathart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FractalBranchArt.cs",
+              "DocumentMoniker": "E:\\UnityProjects\\GenerativeArt\\Assets\\Scripts\\FractalBranchArt.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FractalBranchArt.cs",
+              "ToolTip": "E:\\UnityProjects\\GenerativeArt\\Assets\\Scripts\\FractalBranchArt.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FractalBranchArt.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAIwH4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T10:02:13.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RandomMathArt.cs",
+              "DocumentMoniker": "E:\\UnityProjects\\GenerativeArt\\Assets\\Scripts\\RandomMathArt.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RandomMathArt.cs",
+              "ToolTip": "E:\\UnityProjects\\GenerativeArt\\Assets\\Scripts\\RandomMathArt.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RandomMathArt.cs",
+              "ViewState": "AQIAAIAAAAAAAAAAAAAuwJAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T08:53:39.033Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
